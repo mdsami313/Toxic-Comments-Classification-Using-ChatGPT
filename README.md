@@ -2,7 +2,6 @@
 
 ![Toxicity Detection](https://img.shields.io/badge/toxicity-detection-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
-![License](https://img.shields.io/badge/license-MIT-orange.svg)
 
 ## Introduction
 
@@ -36,11 +35,11 @@ This project involves:
 
 To get started, clone this repository and install the required packages:
 
-'''bash
+```bash
 git clone https://github.com/your-username/toxicity-detection.git
 cd toxicity-detection
 pip install -r requirements.txt
-'''
+```
 
 ## Usage
 Follow these steps to run the project:
