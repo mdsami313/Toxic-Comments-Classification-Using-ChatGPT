@@ -18,7 +18,6 @@ Welcome to the Multi-Headed Toxicity Detection Model project! This repository co
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Project Overview
