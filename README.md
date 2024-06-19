@@ -1,40 +1,46 @@
 # Multi-Headed Toxicity Detection Model
 
-
+![Toxicity Detection](https://img.shields.io/badge/toxicity-detection-blue.svg)
+![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
+![License](https://img.shields.io/badge/license-MIT-orange.svg)
 
 ## Introduction
+
 Welcome to the Multi-Headed Toxicity Detection Model project! This repository contains a state-of-the-art multi-headed neural network designed to detect various types of toxicity in online comments, such as threats, obscenity, insults, and identity-based hate. This project aims to improve the quality of online discussions by identifying and managing toxic comments effectively.
 
-Table of Contents
-Introduction
-Project Overview
-Installation
-Usage
-Data
-Model Architecture
-Exploratory Data Analysis
-Results
-Contributing
-License
-Contact
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Project Overview](#project-overview)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Data](#data)
+- [Model Architecture](#model-architecture)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Results](#results)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ## Project Overview
+
 This project involves:
 
-Data Preparation: Loading, cleaning, and preprocessing text data.
-Exploratory Data Analysis (EDA): Understanding data distribution, visualizing relationships, and uncovering insights.
-Model Building: Creating a multi-headed model to predict different types of toxicity using Keras/TensorFlow.
-Evaluation: Assessing model performance and generating predictions on test data.
-Submission: Creating a formatted submission file for predictions.
+1. **Data Preparation**: Loading, cleaning, and preprocessing text data.
+2. **Exploratory Data Analysis (EDA)**: Understanding data distribution, visualizing relationships, and uncovering insights.
+3. **Model Building**: Creating a multi-headed model to predict different types of toxicity using Keras/TensorFlow.
+4. **Evaluation**: Assessing model performance and generating predictions on test data.
+5. **Submission**: Creating a formatted submission file for predictions.
 
 ## Installation
+
 To get started, clone this repository and install the required packages:
 
-bash
-Copy code
+'''bash
 git clone https://github.com/your-username/toxicity-detection.git
 cd toxicity-detection
 pip install -r requirements.txt
+'''
 
 ## Usage
 Follow these steps to run the project:
